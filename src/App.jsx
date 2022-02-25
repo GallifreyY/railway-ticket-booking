@@ -1,8 +1,4 @@
 const initialTravelers = [
-  // {
-  //   id: 1, status: 'New', name: 'Ravan',
-  //   created: new Date(), number: undefined
-  // }
 ];
 
 class Instructions extends React.Component {
